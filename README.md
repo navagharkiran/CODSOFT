@@ -27,5 +27,15 @@ I have created a simple calculator that can calculate floating-point numbers as 
 2.Subtraction
 3.Multiplication
 4.Division
-5.Exit
-This program allows the user to enter a choice and then prompts for two numbers to perform calculations. It continues running until the 'Exit' option is chosen. Additionally, the program includes error handling for non-numeric inputs.
+5.Modulus
+6.Logarithm
+7.Square
+8.Cube
+9.power
+10.Sin
+11.cos
+12.tan
+13.square root
+14. clear
+15. Exit
+This program allows the user to enter a choice and then prompts for two numbers to perform calculations. It continues running until the 'Exit' option is chosen. Additionally,
