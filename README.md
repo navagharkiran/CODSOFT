@@ -39,3 +39,36 @@ I have created a simple calculator that can calculate floating-point numbers as 
 14. clear
 15. Exit
 This program allows the user to enter a choice and then prompts for two numbers to perform calculations. It continues running until the 'Exit' option is chosen. Additionally,
+
+
+Task->3 (Tic-Tac-Toe Game)
+
+Build a simple console-based Tic-Tac-Toe game that
+allows two players to play against each other
+
+Game Board: Create a 3x3 grid as the game board.
+Players: Assign "X" and "O" to two players.
+Display Board: Show the current state of the board
+Player Input: Prompt the current player to enter their move.
+Update Board: Update the game Board with the Player's Move.
+Check for Win: Check if the Current player has won.
+Check for Draw: Determine if the game is a draw.
+Switch players: Alternate turns between "X" and "O" players.
+Display Results: Show the Results of the Game(win, draw or ongoing).
+Play Again: Ask if the players want to play another game.
+
+Outcomes:
+I have created a Tic-Tac-Toe CUI game which has two modes to play:
+
+Player vs. Computer: Challenge the computer, which makes strategic moves.
+Player vs. Player: Play with a friend, taking turns to mark the board.
+The game features:
+
+Simple User Interface: A clear and intuitive display that updates after every move.
+Easy-to-Understand Layout: The game board is represented clearly, with cells numbered 1-9 for easy reference.
+Real-Time Game Status: The game provides immediate feedback on the current state, including whose turn it is.
+Win/Draw Detection: The game automatically checks for win conditions (three in a row horizontally, vertically, or diagonally) and draw conditions (all cells filled with no winner) and displays the result accordingly.
+Replayability: After a game ends, players have the option to start a new game without restarting the application.
+
+
+
