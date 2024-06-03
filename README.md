@@ -71,4 +71,25 @@ Win/Draw Detection: The game automatically checks for win conditions (three in a
 Replayability: After a game ends, players have the option to start a new game without restarting the application.
 
 
+Task->4 (To-Do-List)
+Build a simple console-based to-do list manager that allows users to add,view,and delete tasks.
+
+Task Input: Allow Users to input tasks they want to add to the list
+Add Task: Implement a function to add tasks to the List.
+View Tasks: Display The List of Tasks with Their status(completed or pending).
+Mark Task as Completed: Allow users to mark tasks as completed.
+Remove Task: Provide an option to remove tasks from the list.
+
+Outcomes:
+
+I have created a simple console-based To-Do List Manager with a CUI (Console User Interface). It offers five options for users to select from:
+
+Add Task
+View Tasks
+Mark Task as Completed
+Delete Task
+Exit
+Users can add tasks, view tasks, mark tasks as completed, and delete tasks. Error handling for invalid entries is also implemented. Additionally, if all tasks are completed and the user wants to exit the program, there is an exit option available.
+
+
 
