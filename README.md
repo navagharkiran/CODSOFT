@@ -84,11 +84,12 @@ Outcomes:
 
 I have created a simple console-based To-Do List Manager with a CUI (Console User Interface). It offers five options for users to select from:
 
-Add Task
-View Tasks
-Mark Task as Completed
-Delete Task
-Exit
+1.Add Task
+2.View Tasks
+3.Mark Task as Completed
+4.Delete Task
+5.Exit
+
 Users can add tasks, view tasks, mark tasks as completed, and delete tasks. Error handling for invalid entries is also implemented. Additionally, if all tasks are completed and the user wants to exit the program, there is an exit option available.
 
 
